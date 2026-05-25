@@ -20,5 +20,5 @@ This project relies heavily on foundational computer science concepts:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com//textcompressor.git](https://github.com/YOUR_USERNAME/huffman-compressor.git)
-cd huffman-compressor
+git clone [https://github.com//Text-File-Compressor.git](https://github.com/trystonmcgee/Text-File-Compressor.git)
+cd Text-File-Compressor
