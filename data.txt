@@ -1,2 +1,1 @@
-This is a test:
-My name is Tryston McGee and I am building a hufmann compressor
+This is where you can import your data to be compressed.
